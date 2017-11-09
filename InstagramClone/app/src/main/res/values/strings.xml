@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="lbl_posts">Posts</string>
+    <string name="lbl_followers">Followers</string>
+    <string name="lbl_following">Following</string>
+    <string name="lbl_edit_profile">Edit your profile</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+</resources>

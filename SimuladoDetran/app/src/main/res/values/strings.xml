@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Simulado Detran</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_placas">Placas</string>
+    <string name="title_configuracoes">Configurações</string>
+
+    <string name="action_avalie">Avalie o App</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_simulado">Simulado</string>
+    <string name="nav_historico">Histórico</string>
+    <string name="nav_regulamentacao">Regulamentação</string>
+    <string name="nav_advertencia">Advertência</string>
+    <string name="nav_identificacao">Identificação e Orientação</string>
+    <string name="nav_educativas">Educativas e Auxiliares</string>
+    <string name="nav_obras">Obras</string>
+    <string name="nav_outros">Outras</string>
+    <string name="nav_perfil">Perfil</string>
+    <string name="nav_notificacoes">Notificações</string>
+    <string name="nav_sair">Sair</string>
+</resources>

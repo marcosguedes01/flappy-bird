@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/nav_simulado" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/nav_historico" />
+
+        <!--<item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools" />-->
+    </group>
+
+    <item android:title="@string/title_placas">
+        <menu>
+            <item
+                android:id="@+id/nav_placa_regulamentacao"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/nav_regulamentacao" />
+            <item
+                android:id="@+id/nav_placa_advertencia"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_advertencia" />
+            <item
+                android:id="@+id/nav_placa_identificacao_orientacao"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_identificacao" />
+            <item
+                android:id="@+id/nav_placa_educativas_auxiliares"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_educativas" />
+            <item
+                android:id="@+id/nav_placa_obras"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_obras" />
+            <item
+                android:id="@+id/nav_placa_outros"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_outros" />
+        </menu>
+    </item>
+
+    <item android:title="@string/title_configuracoes">
+        <menu>
+            <item
+                android:id="@+id/nav_config_perfil"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_perfil" />
+            <item
+                android:id="@+id/nav_config_notificacoes"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/nav_notificacoes" />
+            <item
+                android:id="@+id/nav_sair"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/nav_sair" />
+        </menu>
+    </item>
+
+</menu>

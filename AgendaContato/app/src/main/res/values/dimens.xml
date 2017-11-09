@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cabecalho_edit_text">14sp</dimen>
+    <dimen name="largura_spinner_default">120dp</dimen>
+</resources>

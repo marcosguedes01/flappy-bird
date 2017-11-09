@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.programacaobrasil.agendacontato.CadContatoActivity">
+
+    <item android:id="@+id/mnSalvar" android:title="@string/menu_salvar"
+        android:orderInCategory="100" app:showAsAction="never"/>
+
+    <item android:id="@+id/mnExcluir" android:title="@string/menu_excluir"
+        android:orderInCategory="100" app:showAsAction="never" android:visible="false"/>
+
+</menu>

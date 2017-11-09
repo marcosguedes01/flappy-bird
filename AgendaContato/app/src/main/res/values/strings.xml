@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agenda Contato</string>
+    <string name="menu_salvar">Salvar</string>
+    <string name="menu_excluir">Excluir</string>
+</resources>

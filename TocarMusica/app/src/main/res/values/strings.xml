@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tocar Música</string>
+    <string name="lbl_tocar" >Tocar</string>
+</resources>
